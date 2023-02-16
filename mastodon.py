@@ -1,5 +1,5 @@
 """
-This class implements the integration with Mastadon's profiles.
+This module implements the integration with Mastadon's profiles.
 The idea is to simulate victim's activity that communicates to a 
 Mastadon fake profile.
 """
